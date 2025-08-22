@@ -98,7 +98,7 @@ Ticket booked successfully! Ticket ID: 1
 
 ## 📝 Author
 
-Developed by:Pooja Kumari
+Developed by: Pooja Kumari
 
 Project Type: DSA File Handling / Mini Project  
 Language: C++
